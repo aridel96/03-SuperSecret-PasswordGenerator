@@ -42,16 +42,29 @@ header {
   padding: 30px 40px;
 }
 
+.card-header {
+  text-align: center;
+}
+
 .card-header::after {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: transparent;
   height: 2px;
 }
 
 .card-body {
-  min-height: 100px;
+  min-height: 50px;
+}
+
+textarea {
+  position: absolute;
+  top: 42.3%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  background-color: transparent;
+  height: 30px
 }
 
 .card-footer {
@@ -62,7 +75,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: transparent;
   height: 2px;
 }
 
@@ -103,20 +116,45 @@ button[disabled] {
   appearance: none;
   border: none;
   display: block;
-  width: 100%;
-  padding-top: 15px;
+
+  /* width: 100%; */
+
+  width: 300px;
+
+  /* padding-top: 15px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 85px;
+  padding-bottom: 85px; */
+
   font-size: 1.2rem;
   text-align: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
+
+  /* margin-top: 10px;
+  margin-bottom: 10px; */
+  
+  border: 2px none tr;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
 }
+
+
+
+#pink-slot-machine {   
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 65%;
+
+}
+
+
+
+
+
+
+
 
 @media (max-width: 690px) {
   .btn {
