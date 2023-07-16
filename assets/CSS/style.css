@@ -59,7 +59,7 @@ header {
 }
 
 textarea {
-  position: absolute;
+  position: absolute;                                /* See README */
   top: 42.3%;
   left: 50%;
   transform: translate(-50%, -50%); 
@@ -141,7 +141,7 @@ button[disabled] {
 
 
 #pink-slot-machine {   
-  display: block;
+  display: block;                                 /* See README */
   margin-left: auto;
   margin-right: auto;
   margin-top: 25px;
