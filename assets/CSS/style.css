@@ -58,7 +58,7 @@ header {
   min-height: 50px;
 }
 
-textarea {
+textarea {                                                    /*See README*/
   position: absolute;
   top: 42.3%;
   left: 50%;
@@ -140,7 +140,7 @@ button[disabled] {
 
 
 
-#pink-slot-machine {   
+#pink-slot-machine {                                        /*See README*/
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -148,11 +148,6 @@ button[disabled] {
   width: 65%;
 
 }
-
-
-
-
-
 
 
 
