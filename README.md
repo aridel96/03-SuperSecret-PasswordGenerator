@@ -13,7 +13,7 @@ Through this project I've learned more about the Document Object Model, Javascri
 * CSS Textarea: https://www.w3schools.com/howto/howto_css_image_text.asp
 * CSS Pink-slot-machine: https://www.w3schools.com/howto/howto_css_image_center.asp
 * Javascript Generate random password length: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-* 
+* Javascript Random index generator: https://www.programiz.com/javascript/examples/generate-random-strings
 
 ## Screenshot & Link
 
