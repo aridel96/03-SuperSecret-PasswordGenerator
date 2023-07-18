@@ -16,8 +16,11 @@ Through this project I've learned more about the Document Object Model, Javascri
 * Javascript Random index generator: https://www.programiz.com/javascript/examples/generate-random-strings
 
 ## Screenshot & Link
+https://aridel96.github.io/03-SuperSecret-PasswordGenerator/
 
+![03 Challenge img1](https://github.com/aridel96/03-SuperSecret-PasswordGenerator/assets/116254910/dd63b945-036a-4fa5-9ff7-f34b54db2b7d)
 
+![03 Challenge img2](https://github.com/aridel96/03-SuperSecret-PasswordGenerator/assets/116254910/e9c5b391-fe35-4798-99ad-3787732df907)
 
 ## License
 MIT
