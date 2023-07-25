@@ -7,7 +7,7 @@ This project uses the starter code provided in the HTML and CSS files, and refac
 
 The focus of this project is to use Javascript to make the webpage interactive.
 
-Through this project I've learned more about Javascript and objects in Javascript.
+Through this project I've learned more about Javascript and functions and objects in Javascript.
 
 ## Code Source
 * CSS Textarea: https://www.w3schools.com/howto/howto_css_image_text.asp
